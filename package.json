@@ -1,0 +1,22 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "wip!",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarSarantakos/loginPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarSarantakos/loginPage/issues"
+  },
+  "homepage": "https://github.com/CesarSarantakos/loginPage#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
